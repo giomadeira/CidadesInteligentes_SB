@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../requests.json"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
