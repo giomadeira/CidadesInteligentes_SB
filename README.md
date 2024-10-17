@@ -1,2 +1,2 @@
 Projeto FIAP
-Incluir documentação projeto - guias de ajuda de inicialização
+Incluir documentação projeto - guias de ajuda de inicialização.
